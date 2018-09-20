@@ -1,0 +1,2 @@
+[remote "origin"]
+	lfsurl = http://ec2-54-219-161-26.us-west-1.compute.amazonaws.com:41238/vp-lfs-server-test.git
